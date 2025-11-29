@@ -1,0 +1,61 @@
+Abbreviation,Region,Calculation_Network,Calculation_Hemisphere,Calculation_MNIcoordinates_Xmm,Calculation_MNIcoordinates_Ymm,Calculation_MNIcoordinates_Zmm,Calculation_Index,Calculation_Number_of_Voxels,Calculation_Volume_mm3,NumericalIntervalComparison_Network,NumericalIntervalComparison_Hemisphere,NumericalIntervalComparison_MNIcoordinates_Xmm,NumericalIntervalComparison_MNIcoordinates_Ymm,NumericalIntervalComparison_MNIcoordinates_Zmm,NumericalIntervalComparison_Index,NumericalIntervalComparison_Number_of_Voxels,NumericalIntervalComparison_Volume_mm3
+f1_5,superior frontal sulcus (5),Fronto-intraparietal,Left,-27,11,57,15,611,4888,,,,,,,,
+f2_1,inferior frontal sulcus (1),Fronto-intraparietal,Left,-44,38,12,29,585,4680,,,,,,,,
+f2_2,inferior frontal sulcus (2),Fronto-intraparietal,Left,-43,15,29,31,1116,8928,,,,,,,,
+F1_3,Superior Frontal Gyrus (3),Fronto-intraparietal,Left,-20,16,63,5,57,456,,,,,,,,
+F2_1,Middle Frontal Gyrus (1),Fronto-intraparietal,Left,-40,41,20,19,272,2176,Fronto-intraparietal,Right,41,44,13,20,516,4128
+F3t,Inferior Frontal Gyrus : Pars Triangularis,Fronto-intraparietal,Left,-49,26,5,33,1289,10312,,,,,,,,
+ips1,intraparietal sulcus (1),Fronto-intraparietal,Left,-41,-43,49,109,413,3304,,,,,,,,
+prec1,precentral sulcus (1),Fronto-intraparietal,Left,-50,6,26,51,250,2000,,,,,,,,
+prec4,precentral sulcus (4),Fronto-intraparietal,Left,-42,1,50,57,766,6128,,,,,,,,
+CAUD5,Caudate nucleus (5),Fronto-intraparietal,Right,12,10,9,356,302,2416,Fronto-intraparietal,Right,12,10,9,356,302,2416
+cing1,cingulate sulcus (1),Fronto-intraparietal,Right,7,27,31,228,287,2296,Fronto-intraparietal,Right,7,27,31,228,287,2296
+CINGa2,Anterior Cingulum Gyrus (2),Fronto-intraparietal,Right,7,33,23,244,340,2720,Fronto-intraparietal,Right,7,33,23,244,340,2720
+F2_2,Middle Frontal Gyrus (2),Fronto-intraparietal,Right,32,45,27,22,697,5576,,,,,,,,
+F2O1,Middle Orbito-Frontal Gyrus (1),Fronto-intraparietal,Right,36,57,-6,38,178,1424,Fronto-intraparietal,Right,36,57,-6,38,178,1424
+orb1,orbital sulcus (1),Fronto-intraparietal,Right,26,41,-15,46,370,2960,Fronto-intraparietal,Right,26,41,-15,46,370,2960
+SMA1,Supplementary Motor Area (1),Fronto-intraparietal,Right,6,21,49,222,172,1376,Fronto-intraparietal,Right,6,21,49,222,172,1376
+THA9,Thalamus (9),Fronto-intraparietal,Right,5,-10,-6,384,219,1752,,,,,,,,
+AMYG,Amygdala,,,,,,,,,Fronto-intraparietal,Right,21,2,-12,346,197,1576
+F1M3,Medial Superior Frontal Gyrus (3),,,,,,,,,Fronto-intraparietal,Right,6,33,45,212,376,3008
+INSa2,Anterior Insula (2),,,,,,,,,Fronto-intraparietal,Right,35,18,-13,148,273,2184
+ips2,intraparietal sulcus (2),,,,,,,,,Fronto-intraparietal,Right,37,-52,48,112,719,5752
+P2,Inferior Parietal Gyrus,,,,,,,,,Fronto-intraparietal,Right,43,-53,48,108,410,3280
+SMA3,Supplementary Motor Area (3),,,,,,,,,Fronto-intraparietal,Right,6,10,66,226,275,2200
+SMG6,SupraMarginal Gyrus (6),,,,,,,,,Fronto-intraparietal,Right,54,-38,44,98,133,1064
+THA2,Thalamus (2),,,,,,,,,Fronto-intraparietal,Right,9,-7,13,370,222,1776
+CU1,Cuneus (1),Visuo-motor,Left,-5,-83,28,295,256,2048,Visuo-motor,Left,-5,-83,28,295,256,2048
+FUS4,Fusiform Gyrus (4),Visuo-motor,Left,-43,-50,-17,337,458,3664,,,,,,,,
+O3_2,Inferior Occipital Gyrus (2),Visuo-motor,Left,-45,-71,-7,143,382,3056,,,,,,,,
+P1_5,Superior Parietal Gyrus (5),Visuo-motor,Left,-16,-61,61,85,447,3576,,,,,,,,
+post1,postcentral sulcus (1),Visuo-motor,Left,-58,-18,32,71,194,1552,Visuo-motor,Left,-58,-18,32,71,194,1552
+post3,postcentral sulcus (3),Visuo-motor,Left,-43,-33,44,75,587,4696,Visuo-motor,Left,-43,-33,44,75,587,4696
+prec5,precentral sulcus (5),Visuo-motor,Left,-56,5,31,59,146,1168,,,,,,,,
+rol1,Rolandic fissure (1),Visuo-motor,Left,-54,-8,32,63,1167,9336,,,,,,,,
+rol2,Rolandic fissure (2),Visuo-motor,Left,-44,-14,51,65,416,3328,Visuo-motor,Left,-44,-14,51,65,416,3328
+rol3,Rolandic fissure (3),Visuo-motor,Left,-39,-23,61,67,1136,9088,Visuo-motor,Left,-39,-23,61,67,1136,9088
+ROLop1,Rolandic Operculum (1),Visuo-motor,Left,-46,4,9,157,650,5200,,,,,,,,
+SMG3,Supramarginal Gyrus (3),Visuo-motor,Left,-59,-27,37,91,306,2448,,,,,,,,
+T3_5,Inferior Temporal Gyrus (5),Visuo-motor,Left,-45,-64,6,195,136,1088,Visuo-motor,Left,-45,-64,6,195,136,1088
+FUS3,Fusiform Gyrus (3),Visuo-motor,Right,37,-31,-24,336,390,3120,,,,,,,,
+LING1,Lingual Gyrus (1),Visuo-motor,Right,20,-44,-4,306,173,1384,Medial,Right,20,-44,-4,306,173,1384
+LING4,Lingual Gyrus (4),Visuo-motor,Right,13,-72,-9,312,39,312,Visuo-motor,Right,13,-72,-9,312,39,312
+LING5,Lingual Gyrus (5),Visuo-motor,Right,11,-79,-7,314,83,664,,,,,,,,
+Olat2,Lateral Occipital Gyrus (2),Visuo-motor,Right,28,-89,-2,122,674,5392,Visuo-motor,Right,28,-89,-2,122,674,5392
+ios,intraoccipital sulcus,,,,,,,,,Visuo-motor,Right,28,-69,33,116,48,384
+pCENT1,Paracentral Lobule (1),,,,,,,,,Visuo-motor,Left,-7,-17,51,257,237,1896
+post2,postcentral sulcus (2),,,,,,,,,Visuo-motor,Left,-41,-33,55,73,558,4464
+rol4,Rolandic fissure (4),,,,,,,,,Visuo-motor,Left,-23,-29,65,69,1110,8880
+CAUD2,Caudate nucleus (2),Sub-cortical,Left,-14,26,0,349,30,240,,,,,,,,
+CAUD6,Caudate nucleus (6),Sub-cortical,Right,15,7,18,358,157,1256,,,,,,,,
+CAUD7,Caudate nucleus (7),Sub-cortical,Right,17,-8,24,360,155,1240,,,,,,,,
+HIPP2,Hippocampus (2),Sub-cortical,Right,25,-31,-2,320,485,3880,Medial,Right,25,-31,-2,320,485,3880
+pHIPP4,ParaHippocampal Gyrus (4),Sub-cortical,Right,17,-27,-10,328,321,2568,Medial,Right,17,-27,-10,328,321,2568
+THA4,Thalamus (4),Sub-cortical,Right,3,-14,9,374,96,768,Medial,Right,3,-14,9,374,96,768
+THA7,Thalamus (7),Sub-cortical,Right,9,-26,10,380,37,296,Medial,Right,9,-26,10,380,37,296
+THA8,Thalamus (8),Sub-cortical,Right,4,-25,13,382,30,240,,,,,,,,
+pos1,parietooccipital sulcus (1),,,,,,,,,Medial,Right,13,-54,9,284,435,3480
+pos2,parietooccipital sulcus (2),,,,,,,,,Medial,Right,16,-61,26,286,158,1264
+PRECU1,Precuneus (1),,,,,,,,,Medial,Right,13,-53,14,266,442,3536
+PRECU8,Precuneus (8),,,,,,,,,Medial,Right,11,-68,41,280,381,3048
+PRECU9,Precuneus (9),,,,,,,,,Medial,Right,12,0,50,282,310,2480
