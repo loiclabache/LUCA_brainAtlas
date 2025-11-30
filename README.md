@@ -38,17 +38,30 @@ LUCA isolates the regions that show robust leftward or rightward
 activation and asymmetry during two core numerical tasks: **mental
 calculation** and **numerical interval comparison**.
 
-<p align="center">
+<table style="border-collapse:collapse; border:none; border-top:0; width:100%;">
+<tr>
+<td style="text-align:center; vertical-align:top; width:50%; border:none;">
+<img src="Image/LUCA_Calc_volume.gif" style="width:100%;" />
 
-<span style="display:inline-block; text-align:center; width:30%;">
-<img src="Image/LUCA_Calc_volume.gif" width="50%" /> <br> <em>LUCA:
-Calculation</em> </span>
+<div style="font-style:italic; margin-top:6px;">
 
-<span style="display:inline-block; text-align:center; width:30%;">
-<img src="Image/LUCA_Comp_volume.gif" width="50%" /> <br> <em>LUCA:
-Number Interval Comparison</em> </span>
+LUCA: Calculation
 
-</p>
+</div>
+
+</td>
+<td style="text-align:center; vertical-align:top; width:50%; border:none;">
+<img src="Image/LUCA_Comp_volume.gif" style="width:100%;" />
+
+<div style="font-style:italic; margin-top:6px;">
+
+LUCA: Number Interval Comparison
+
+</div>
+
+</td>
+</tr>
+</table>
 
 LUCA formalizes numerical cognition into **six lateralized functional
 networks**. For **calculation**, *three* networks are identified:
