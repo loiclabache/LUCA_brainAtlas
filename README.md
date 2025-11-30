@@ -38,6 +38,18 @@ LUCA isolates the regions that show robust leftward or rightward
 activation and asymmetry during two core numerical tasks: **mental
 calculation** and **numerical interval comparison**.
 
+<p align="center">
+
+<span style="display:inline-block; text-align:center; width:45%;">
+<img src="Image/LUCA_Calc_volume.gif" width="100%" /> <br> <em>LUCA:
+Calculation</em> </span>
+
+<span style="display:inline-block; text-align:center; width:45%;">
+<img src="Image/LUCA_Comp_volume.gif" width="100%" /> <br> <em>LUCA:
+Number Interval Comparison</em> </span>
+
+</p>
+
 LUCA formalizes numerical cognition into **six lateralized functional
 networks**. For **calculation**, *three* networks are identified:
 
@@ -64,10 +76,6 @@ Together, these six networks provide a comprehensive and reproducible
 framework for studying the neural foundations of arithmetic and number
 comparison in both healthy individuals and clinical or developmental
 populations.
-
-<p align="center">
-<img src="readme_files/LUCA_volume.gif" width="50%" height="50%" />
-</p>
 
 ------------------------------------------------------------------------
 
@@ -107,4 +115,5 @@ The `Atlas` folder contains three files:
 
 ## Questions
 
-Please contact me (Loïc Labache) as <loic.labache@rutgers.edu>
+Please contact me (Loïc Labache) at: <loic.labache@rutgers.edu> and/or
+<loic.labache@ensc.fr>

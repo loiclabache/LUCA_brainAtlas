@@ -23,6 +23,22 @@ For usage of the ***atlas***, please cite:
 
 The **Lateralized Underpinnings of Comparison and Arithmetic (LUCA)** atlas defines the large-scale, hemispherically lateralized brain networks that support numerical cognition. Using multimodal fMRI in a large sample of typically left-lateralized individuals for language, LUCA isolates the regions that show robust leftward or rightward activation and asymmetry during two core numerical tasks: **mental calculation** and **numerical interval comparison**.
 
+<p align="center">
+
+  <span style="display:inline-block; text-align:center; width:45%;">
+    <img src="Image/LUCA_Calc_volume.gif" width="100%" />
+    <br>
+    <em>LUCA: Calculation</em>
+  </span>
+
+  <span style="display:inline-block; text-align:center; width:45%;">
+    <img src="Image/LUCA_Comp_volume.gif" width="100%" />
+    <br>
+    <em>LUCA: Number Interval Comparison</em>
+  </span>
+
+</p>
+
 LUCA formalizes numerical cognition into **six lateralized functional networks**.
 For **calculation**, *three* networks are identified:
 
@@ -41,10 +57,6 @@ For **numerical comparison**, *three* networks emerge:
 -   and a **left-lateralized hand-motor network** supporting response selection.
 
 Together, these six networks provide a comprehensive and reproducible framework for studying the neural foundations of arithmetic and number comparison in both healthy individuals and clinical or developmental populations.
-
-<p align="center">
-<img src="readme_files/LUCA_volume.gif" width="50%" height="50%" />
-</p>
 
 ------------------------------------------------------------------------
 
@@ -75,4 +87,4 @@ The `Atlas` folder contains three files:
 
 ## Questions
 
-Please contact me (Loïc Labache) as [loic.labache\@rutgers.edu](mailto:loic.labache@rutgers.edu){.email}
+Please contact me (Loïc Labache) at: [loic.labache\@rutgers.edu](mailto:loic.labache@rutgers.edu){.email} and/or [loic.labache\@ensc.fr](mailto:loic.labache@ensc.fr){.email}
