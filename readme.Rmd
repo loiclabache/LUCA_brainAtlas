@@ -23,21 +23,9 @@ For usage of the ***atlas***, please cite:
 
 The **Lateralized Underpinnings of Comparison and Arithmetic (LUCA)** atlas defines the large-scale, hemispherically lateralized brain networks that support numerical cognition. Using multimodal fMRI in a large sample of typically left-lateralized individuals for language, LUCA isolates the regions that show robust leftward or rightward activation and asymmetry during two core numerical tasks: **mental calculation** and **numerical interval comparison**.
 
-<table style="border-collapse: collapse; border: none; width: 100%;">
-<tr>
-
-<td style="text-align:center; vertical-align:top; width:50%; border:none;">
-  <img src="Image/LUCA_Calc_volume.gif" style="width:100%;" />
-  <div style="font-style: italic; margin-top: 6px;">LUCA: Calculation</div>
-</td>
-
-<td style="text-align:center; vertical-align:top; width:50%; border:none;">
-  <img src="Image/LUCA_Comp_volume.gif" style="width:100%;" />
-  <div style="font-style: italic; margin-top: 6px;">LUCA: Number Interval Comparison</div>
-</td>
-
-</tr>
-</table>
+<p align="center">
+<img src="Image/LUCA_volume.gif" width="50%" height="50%" /> 
+</p>
 
 LUCA formalizes numerical cognition into **six lateralized functional networks**.
 For **calculation**, *three* networks are identified:
