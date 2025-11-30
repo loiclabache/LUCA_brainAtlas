@@ -1,7 +1,7 @@
 Lateralized Underpinnings of Comparison and Arithmetic atlas (LUCA)
 ================
 
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10655105.svg)](https://doi.org/10.5281/zenodo.10655105) -->
+[![DOI](https://zenodo.org/badge/1104933995.svg)](https://doi.org/10.5281/zenodo.17771073)
 
 ------------------------------------------------------------------------
 
@@ -25,6 +25,10 @@ For usage of the ***atlas***, please cite:
   Lateralization of Language, Attention, and Numerical Cognition Across
   Task and Rest. *BioRxiv*. DOI:
   [10.1101/2025.11.23.690045](https://doi.org/10.1101/2025.11.23.690045)
+- **Labache, L.** (2025). loiclabache/LUCA_brainAtlas: Lateralized
+  Underpinnings of Comparison and Arithmetic atlas (LUCA)
+  (Labache_2025_LUCA_251130). Zenodo.DOI:
+  [10.5281/zenodo.17771073](https://doi.org/10.5281/zenodo.17771073)
 
 ------------------------------------------------------------------------
 
