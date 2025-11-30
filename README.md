@@ -40,13 +40,13 @@ calculation** and **numerical interval comparison**.
 
 <p align="center">
 
-<span style="display:inline-block; text-align:center; width:45%;">
-<img src="Image/LUCA_Calc_volume.gif" width="15%" /> <br>
-<!-- <em>LUCA: Calculation</em>  --> </span>
+<span style="display:inline-block; text-align:center; width:30%;">
+<img src="Image/LUCA_Calc_volume.gif" width="100%" /> <br> <em>LUCA:
+Calculation</em> </span>
 
-<span style="display:inline-block; text-align:center; width:45%;">
-<img src="Image/LUCA_Comp_volume.gif" width="15%" /> <br>
-<!-- <em>LUCA: Number Interval Comparison</em> --> </span>
+<span style="display:inline-block; text-align:center; width:30%;">
+<img src="Image/LUCA_Comp_volume.gif" width="100%" /> <br> <em>LUCA:
+Number Interval Comparison</em> </span>
 
 </p>
 
