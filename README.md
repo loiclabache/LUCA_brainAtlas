@@ -39,7 +39,7 @@ activation and asymmetry during two core numerical tasks: **mental
 calculation** and **numerical interval comparison**.
 
 <p align="center">
-<img src="Image/LUCA_volume.gif" width="50%" height="50%" />
+<img src="Image/LUCA_volume.gif" width="100%" height="100%" />
 </p>
 
 LUCA formalizes numerical cognition into **six lateralized functional
