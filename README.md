@@ -38,12 +38,12 @@ LUCA isolates the regions that show robust leftward or rightward
 activation and asymmetry during two core numerical tasks: **mental
 calculation** and **numerical interval comparison**.
 
-<table style="border-collapse: collapse; border: none; width: 100%;">
+<table style="border-collapse:collapse; border:none; border-top:0; width:100%;">
 <tr>
 <td style="text-align:center; vertical-align:top; width:50%; border:none;">
 <img src="Image/LUCA_Calc_volume.gif" style="width:100%;" />
 
-<div style="font-style: italic; margin-top: 6px;">
+<div style="font-style:italic; margin-top:6px;">
 
 LUCA: Calculation
 
@@ -53,7 +53,7 @@ LUCA: Calculation
 <td style="text-align:center; vertical-align:top; width:50%; border:none;">
 <img src="Image/LUCA_Comp_volume.gif" style="width:100%;" />
 
-<div style="font-style: italic; margin-top: 6px;">
+<div style="font-style:italic; margin-top:6px;">
 
 LUCA: Number Interval Comparison
 
